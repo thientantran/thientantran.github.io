@@ -508,25 +508,28 @@ img {
   width: 90%;
 }
 .skills__r {
-  width: 80%;
+  width: 85%;
 }
 .skills__csharp {
-  width: 75%;
+  width: 80%;
 }
 .skills__sql {
-  width: 70%;
+  width: 80%;
 }
 .skills__js {
-  width: 70%;
+  width: 80%;
 }
 .skills__php {
-  width: 65%;
+  width: 80%;
+}
+.skills__perl{
+  width: 70%;
 }
 .skills__node {
   width: 70%;
 }
 .skills__github {
-  width: 70%;
+  width: 75%;
 }
 /* .skills__python {
   width: 55%;
@@ -535,27 +538,32 @@ img {
   width: 90%;
 }
 .skills__sele {
-  width: 85%;
+  width: 90%;
 }
 .skills__plt {
   width: 80%;
 }
 .skills__react {
-  width: 70%;
+  width: 75%;
 }
 .skills__sklearn {
-  width: 70%;
+  width: 75%;
 }
 .skills__tf {
-  width: 70%;
+  width: 75%;
 }
 .skills__spark {
-  width: 60%;
+  width: 70%;
 }
 .skills__aws {
-  width: 60%;
+  width: 70%;
 }
-
+.skills__linux{
+  width: 75%;
+}
+.skills__docker{
+  width: 70%;
+}
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
